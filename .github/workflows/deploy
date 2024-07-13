@@ -32,3 +32,5 @@ jobs:
           OWNER_NAME:
           OWNER_NUMBER:
           SESSION_ID:
+
+    run: npm start
